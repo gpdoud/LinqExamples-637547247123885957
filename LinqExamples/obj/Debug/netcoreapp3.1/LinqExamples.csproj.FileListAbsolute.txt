@@ -1,0 +1,16 @@
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.exe
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.deps.json
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.runtimeconfig.json
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.runtimeconfig.dev.json
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.dll
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.pdb
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqLib.dll
+C:\repos\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqLib.pdb
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.csprojAssemblyReference.cache
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.AssemblyInfoInputs.cache
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.AssemblyInfo.cs
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.csproj.CoreCompileInputs.cache
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.csproj.CopyComplete
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.dll
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.pdb
+C:\repos\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.genruntimeconfig.cache

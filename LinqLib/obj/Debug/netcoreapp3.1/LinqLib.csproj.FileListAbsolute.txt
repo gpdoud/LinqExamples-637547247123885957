@@ -1,0 +1,9 @@
+C:\repos\LinqExamples\LinqLib\bin\Debug\netcoreapp3.1\LinqLib.deps.json
+C:\repos\LinqExamples\LinqLib\bin\Debug\netcoreapp3.1\LinqLib.dll
+C:\repos\LinqExamples\LinqLib\bin\Debug\netcoreapp3.1\LinqLib.pdb
+C:\repos\LinqExamples\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.csprojAssemblyReference.cache
+C:\repos\LinqExamples\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.AssemblyInfoInputs.cache
+C:\repos\LinqExamples\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.AssemblyInfo.cs
+C:\repos\LinqExamples\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.csproj.CoreCompileInputs.cache
+C:\repos\LinqExamples\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.dll
+C:\repos\LinqExamples\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.pdb
